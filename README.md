@@ -1,5 +1,6 @@
 # inf510_project
 INF510 Course Project: Difference of tastes of people in movies
+
 Made by Jiayu Lin and Juanhao Zhao
 
 Please install the following libraries before you run the ipynb
