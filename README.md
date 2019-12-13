@@ -1,5 +1,5 @@
 # inf510_project
-INF510 Course Project: Difference of tastes of people in movies
+INF510 Course Project: Difference of people's tastes in movies
 
 Made by Jiayu Lin and Juanhao Zhao
 
